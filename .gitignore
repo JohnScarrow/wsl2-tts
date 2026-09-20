@@ -1,0 +1,20 @@
+# Binaries and AppImage extracts
+obsidian
+squashfs-root/
+
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Environment
+.env
+.env.*
+
+# Temp files
+*.tmp
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
